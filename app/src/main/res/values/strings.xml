@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Novel Library</string>
+    <string name="novel_title">Novel Title</string>
+    <string name="novel_writer">Novel Writer</string>
+    <string name="about_name">Dyah Ayu Permata Sari</string>
+    <string name="about_email">dyahayuadayu@gmail.com</string>
+</resources>
