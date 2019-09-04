@@ -16,7 +16,7 @@
             android:id="@+id/img_item_photo"
             android:layout_width="170dp"
             android:layout_height="170dp"
-            android:src="@drawable/about_photo_700"
+            android:src="@color/black"
             android:layout_margin="32dp"/>
 
         <TextView
